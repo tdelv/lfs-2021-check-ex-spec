@@ -1,0 +1,1 @@
+{"provides":["Node","edges","isUndirectedTree"],"chaffs":["disallows_empty_instance","disallows_single_node","not_acyclic","not_connected","not_minimally_connected","not_symmetric","only_three_hops","overconstrained_minimally_connected"],"assignment":"forge2","sub-assignment":"undirected_tree","wheats":["wheat_undirected_tree"]}
