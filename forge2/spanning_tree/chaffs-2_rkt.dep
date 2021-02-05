@@ -1,0 +1,1 @@
+("7.9" racket ("d73415be413e4de11e3b586d2665cd8378d1cfed" . "d20ca7e461c8451dc3bef699bff612c2e2affb42") (collects #"forge" #"lang" #"expander.rkt") (collects #"forge" #"logging" #"logging.rkt") (collects #"forge" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,1 +1,1 @@
-{"provides":["Node","edges","isUndirectedTree"],"chaffs":["disallows_empty_instance","disallows_single_node","not_acyclic","not_connected","not_minimally_connected","not_symmetric","only_three_hops","overconstrained_minimally_connected"],"assignment":"forge2","sub-assignment":"undirected_tree","wheats":["wheat_undirected_tree"]}
+{"assignment": "forge2", "sub-assignment": "undirected_tree", "provides": ["Node", "edges", "isUndirectedTree"], "wheats": ["wheats-0"], "chaffs": ["chaffs-0", "chaffs-1", "chaffs-2", "chaffs-3", "chaffs-4", "chaffs-5", "chaffs-6", "chaffs-7"]}

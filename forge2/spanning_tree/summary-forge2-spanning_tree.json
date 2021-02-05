@@ -1,0 +1,1 @@
+{"assignment": "forge2", "sub-assignment": "spanning_tree", "provides": ["Node", "t1", "t2", "t3", "g", "isUndirectedTree", "spans", "twoSpanningTrees"], "wheats": ["wheats-0"], "chaffs": ["chaffs-0", "chaffs-1", "chaffs-2", "chaffs-3", "chaffs-4"]}
