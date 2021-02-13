@@ -1,1 +1,1 @@
-{"assignment": "forge2", "sub-assignment": "ring", "provides": ["Node", "next", "isRing"], "wheats": ["wheats-0"], "chaffs": ["chaffs-0", "chaffs-1"]}
+{"assignment": "forge2", "sub-assignment": "ring", "provides": ["Node", "next", "isRing"], "wheats": ["forge2-ring-wheats-0"], "chaffs": ["forge2-ring-chaffs-0", "forge2-ring-chaffs-1"]}

@@ -1,1 +1,1 @@
-{"assignment": "forge2", "sub-assignment": "graph_coloring", "provides": ["Color", "Red", "Green", "Blue", "Node", "edges", "isDirectedTree", "isDirectedTreeProjected"], "wheats": ["wheats-0"], "chaffs": ["chaffs-0", "chaffs-1", "chaffs-2"]}
+{"assignment": "forge2", "sub-assignment": "graph_coloring", "provides": ["Color", "Red", "Green", "Blue", "Node", "edges", "isDirectedTree", "isDirectedTreeProjected"], "wheats": ["forge2-graph_coloring-wheats-0"], "chaffs": ["forge2-graph_coloring-chaffs-0", "forge2-graph_coloring-chaffs-1", "forge2-graph_coloring-chaffs-2"]}
