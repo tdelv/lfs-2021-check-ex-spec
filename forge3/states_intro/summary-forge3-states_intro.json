@@ -1,0 +1,1 @@
+{"assignment": "forge3", "sub-assignment": "states_intro", "provides": ["Person", "Me", "State", "next", "nextInLine", "ValidStates", "initState", "canTransition", "finalState", "TransitionStates", "SamePersonBehind"], "wheats": ["wheats-0"], "chaffs": []}
