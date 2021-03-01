@@ -1,0 +1,1 @@
+{"assignment": "electrum1", "sub-assignment": "tortoise_and_hare_grading", "provides": ["Node", "next", "Root", "Pointer", "position", "Tortoise", "Hare", "init", "move", "hareAtEnd", "traces", "cyclic", "acyclic", "keepMoving", "hareReachesEnd", "noCatchUpIfAcyclic", "catchUpIfCyclic"], "wheats": [], "chaffs": []}
